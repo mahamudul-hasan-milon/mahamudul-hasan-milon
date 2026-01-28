@@ -36,6 +36,21 @@ I focus on writing **clean, maintainable code**, solving real-world problems, an
 
 > 💡 “Great software is built one clean line of code at a time.”
 ---
+
+## 🧑‍💼 Experience
+
+### Frontend Developer Intern — NextTech Ltd  
+**Duration:** 3 Months  
+
+- Worked on real-world, production-level frontend features  
+- Built responsive and scalable user interfaces using **React** & **Tailwind CSS**  
+- Implemented and maintained **state management** for complex UI flows  
+- Converted Figma designs into pixel-perfect, accessible components  
+- Collaborated with backend developers and designers in an agile environment  
+- Improved code quality through reviews and industry best practices  
+
+This internship strengthened my understanding of professional workflows, teamwork, and writing maintainable, production-ready frontend code.
+
 ## 🔥 Current Activities
 
 - 🚀 Building modern **Full-Stack Web Applications** with React & MERN Stack  
