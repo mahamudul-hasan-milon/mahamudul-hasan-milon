@@ -1,5 +1,5 @@
 # 👋 **Md. Mahamudul Hasan Milon**
-### 🚀 Full Stack Developer | MERN Stack | React & Node.js | Android Studio 
+### 🚀 Full Stack Developer | Scalable Web Applications | MERN Stack 
 
 <!-- Contact Badges -->
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## 🖼️ Profile Banner
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahamudul%20Hasan%20Milon%20🌐&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20%7C%20React%20%7C%20Node.js&descAlignY=55&descAlign=50" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Mahamudul%20Hasan%20Milon&fontSize=38&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer%20|%20MERN%20Stack%20Specialist&descAlignY=60&descAlign=50&animation=fadeIn" />
 </div>
 
 ---
