@@ -121,21 +121,25 @@ I focus on writing **clean, maintainable code**, solving real-world problems, an
     </tr>
   </table>
 </div>
----
+
+
 ## 📂 Featured Projects (Pinned)
 
-### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client) 🔗 [LIVE](https://mcms-web-client.vercel.app/)
-Full MERN stack system for managing medical camps with organizer & participant roles.  
-✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
+### 🔹 [Personal Portfolio Website](https://github.com/mahamudul-hasan-milon/YOUR_PORTFOLIO_REPO) 🔗 [LIVE](https://m-h-milon.vercel.app/)
+A modern, responsive personal portfolio showcasing my skills, projects, and professional profile.  
+Designed with a clean UI, smooth navigation, and performance-focused architecture.  
+
+**Highlights:**  
+✅ Responsive design  
+✅ Clean & minimal UI  
+✅ Fast load time  
+✅ Project showcase sections  
+
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
 
 ## 🌍 Connect With Me
 
@@ -151,9 +155,9 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ## 🎯 Career Objectives
 
 **Seeking Opportunities As:**
-- Full Stack Developer (MERN Stack / Django REST Framework)  
+- Full Stack Developer (MERN Stack)  
 - Frontend Developer (React / Next.js)  
-- Backend Developer (Node.js / Express / Django REST)  
+- Backend Developer (Node.js / Express)  
 
 **Professional Value:**
 - Hands-on experience with real-world, production-level projects  
