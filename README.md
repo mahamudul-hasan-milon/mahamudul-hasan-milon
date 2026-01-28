@@ -22,12 +22,8 @@
 
 ## 🖼️ Profile Banner
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:232526&height=210&section=header&text=Md.%20Mahamudul%20Hasan%20Milon&fontSize=36&fontAlignY=38&desc=Designing%20Modern%20Web%20Systems%20|%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=210&section=header&text=Md.%20Mahamudul%20Hasan%20Milon&fontSize=36&fontAlignY=38&desc=Building%20Scalable%20Web%20Solutions%20|%20Full%20Stack%20Developer%20(MERN)&descAlignY=60&descAlign=50" />
 </div>
-
-
-
-
 
 ---
 
